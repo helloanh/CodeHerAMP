@@ -3,4 +3,5 @@ AMP Workshop resources.
 
 ## Getting Started
 
-AMP validator
+Chrome https://www.google.com/chrome/browser/desktop/index.html
+AMP validator https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc?hl=en
