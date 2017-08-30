@@ -3,4 +3,6 @@ To debug this AMP page run
 
 2. Add `#development=1` to the end of the URL.
 
-3. Open Chrome Dev Tools
+3. Open Chrome Dev Tools.
+
+4. Make the AMP errors go away.

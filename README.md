@@ -13,8 +13,12 @@ https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpo
 Templates
 https://ampstart.com/#templates
 
+AMP Docs
+https://ampbyexample.com/#components
+
 ## Terminal Commands
 
+`git clone https://github.com/kscoulter/CodeHerAMP.git`
+`python -m SimpleHTTPServer` starts a simple server at port 8000
 `cd` change directory
 `ctrl+c` quit process
-`git clone https://github.com/kscoulter/CodeHerAMP.git`
