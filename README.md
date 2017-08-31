@@ -25,4 +25,4 @@ https://ampbyexample.com/#components
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7V_JLRytRsuRtAwsNP6e7QrIK2YuwSduGgkQWEmtev3RsfIMnvVio9xgwOPiICIFLDviuao2zOCm3/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+https://docs.google.com/presentation/d/e/2PACX-1vT7V_JLRytRsuRtAwsNP6e7QrIK2YuwSduGgkQWEmtev3RsfIMnvVio9xgwOPiICIFLDviuao2zOCm3/embed?start=false&loop=false&delayms=5000
